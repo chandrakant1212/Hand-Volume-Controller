@@ -10,7 +10,9 @@ Here is a short video demonstrating the project in action. The volume bar on the
 
 *(To add your video, first convert it to a GIF using a free online tool like ezgif.com, place the GIF in your project folder, and then replace the line below.)*
 
-![Demo GIF of the project in action](https://drive.google.com/file/d/1Q5gJiE1BsfWFE5BYYbL3RVIz_b8iBUKp/view?usp=sharing)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/feef237a-4eb1-4d83-9191-c770cc3a2606" />
+
+
 
 ## ✨ Features
 

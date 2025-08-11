@@ -8,7 +8,7 @@ This project uses computer vision to track hand landmarks and maps the distance 
 
 Here is a short video demonstrating the project in action. The volume bar on the screen and the system volume change as the distance between the fingertips is adjusted.
 
-*(To add your video, first convert it to a GIF using a free online tool like ezgif.com, place the GIF in your project folder, and then replace the line below.)*
+
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/feef237a-4eb1-4d83-9191-c770cc3a2606" />
 

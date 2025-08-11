@@ -12,6 +12,7 @@ Here is a short video demonstrating the project in action. The volume bar on the
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/feef237a-4eb1-4d83-9191-c770cc3a2606" />
 
+<img width="1909" height="1078" alt="image" src="https://github.com/user-attachments/assets/79e91157-c01f-4d85-88f7-75d556489ffa" />
 
 
 ## ✨ Features
